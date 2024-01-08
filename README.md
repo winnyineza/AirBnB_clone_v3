@@ -14,15 +14,15 @@
 
 ## Description
 
-**hbnb** is a full-stack clone of the web application [AirBnB](https://www.airbnb.com/). This clone was built in four iterative phases. This version includes completion of Phase 1 from [AirBnB_clone_v1: Console and web static](https://github.com/bchen528/AirBnB_clone_v1), Phase 2 from [AirBnB_clone_v2](https://github.com/bchen528/AirBnB_clone_v2) plus Phase 3, which involves exposing stored objects via a JSON web interface and manipulating objects via a custom RESTful API.
+**hbnb** is a full-stack clone of the web application [AirBnB](https://www.airbnb.com/). This clone was built in four iterative phases. This version includes completion of Phase 1 from [AirBnB_clone_v1: Console and web static](https://github.com/winnyineza/AirBnB_clone_v1), Phase 2 from [AirBnB_clone_v2](https://github.com/winnyineza/AirBnB_clone_v2) plus Phase 3, which involves exposing stored objects via a JSON web interface and manipulating objects via a custom RESTful API.
 
 ### Create a custom RESTful API, expose stored objects via JSON web interface, manipulate objects via custom RESTful API
 ![restful_api](https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step4.png)
 
 **Links to other versions:**
-* [AirBnB_clone_v1: Console and web static](https://github.com/bchen528/AirBnB_clone_v1)
-* [AirBnB_clone_v2: MySQL, deploy web static, web framework](https://github.com/bchen528/AirBnB_clone_v2)
-* [AirBnB_clone_v4: Web dynamic](https://github.com/bchen528/AirBnB_clone_v4) (Final version!)
+* [AirBnB_clone_v1: Console and web static](https://github.com/winnyineza/AirBnB_clone_v1)
+* [AirBnB_clone_v2: MySQL, deploy web static, web framework](https://github.com/winnyineza/AirBnB_clone_v2)
+* [AirBnB_clone_v4: Web dynamic](https://github.com/winnyineza/AirBnB_clone_v4) (Final version!)
 
 ## Purpose
 The purpose of Phase 3 is to learn how to:
@@ -39,7 +39,7 @@ The purpose of Phase 3 is to learn how to:
 * All files must be pep8 compliant
 
 ## File Descriptions
-  **Note:** Below highlights only new file additions for Phase 3. For file descriptions from previous phases, click [Phase 2](https://github.com/bchen528/AirBnB_clone_v2) and [Phase 1](https://github.com/bchen528/AirBnB_clone_v1).
+  **Note:** Below highlights only new file additions for Phase 3. For file descriptions from previous phases, click [Phase 2](https://github.com/winnyineza/AirBnB_clone_v2) and [Phase 1](https://github.com/winnyineza/AirBnB_clone_v1).
   * [tests](/tests/) - unit test files
   * [models](models) - contains all class models for AirBnB objects
     * [engine](models/engine) - contains storage engines
